@@ -8,6 +8,7 @@ public class TableBoardApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TableBoardApplication.class, args);
+		System.out.println("dsa");
 	}
 
 }
